@@ -7,6 +7,7 @@ This comprehensive analysis is presented in an easy-to-understand dashboard and 
 
 
 Key Features of the Dashboard
+
 Total Orders and Revenue: Visualized metrics to track the total number of orders and revenue generated.
 Top Pizza Types: A breakdown of the most popular pizza types by order quantity and revenue.
 Hourly Sales Distribution: Insights into customer ordering behavior throughout the day.
@@ -15,10 +16,15 @@ Daily Trends: Average orders per day and cumulative revenue tracking.
 
 
 KPIs
+
 Total orders placed
+
 Total revenue generated
+
 Top 3 pizzas by revenue (overall and by category)
+
 Most common pizza size
+
 Hourly order distribution
 
 
