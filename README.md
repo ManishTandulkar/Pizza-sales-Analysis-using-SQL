@@ -32,6 +32,8 @@ Most common pizza size
 Hourly order distribution
 
 
-Skills and Tools Utilized
+Skills and Tools Utilized :
+
 Skills: SQL querying, data wrangling, and sales analysis.
+
 Tools: SQL (used for queries and analysis), Excel for visualization, PDF for report sharing.
